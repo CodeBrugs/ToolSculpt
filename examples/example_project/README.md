@@ -14,7 +14,7 @@ La Tool3 de ToolSculpt es una herramienta que permite generar código y realizar
 2. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/ToolSculpt.git
+   git clone https://github.com/CodeBrugs/ToolSculpt.git
    ```
 
 3. Navega al directorio de la Tool3:
