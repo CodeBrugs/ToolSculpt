@@ -2,7 +2,7 @@ Creative Commons Attribution 4.0 International License
 
 ---
 
-# CodeBruds License
+# ToolSculpt License
 
 **Version 1.0 | Effective Date: January 5, 2024**
 
@@ -25,19 +25,20 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 - No warranties are given. The license may not give you all the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-## CodeBruds Project-Specific Information:
+## ToolSculpt Project-Specific Information:
 
 - **Project Name:** ToolSculpt
-- **Description:** ToolSculpt is a project by CodeBruds that provides a collection of tools for specific tasks, enhancing various aspects of software development. One example tool within ToolSculpt is the "DataManipulator," designed to manipulate and analyze datasets efficiently.
+- **Description:** ToolSculpt, a project developed by CodeBruds, is a versatile toolkit providing a collection of tools designed to streamline various aspects of software development. One notable tool within ToolSculpt is the "DataManipulator," crafted to efficiently manipulate and analyze datasets.
 
-- **Works Covered by this License:** This license covers all works within the ToolSculpt project, including but not limited to source code, documentation, and creative assets.
+- **Works Covered by this License:** This license extends to all works within the ToolSculpt project, encompassing source code, documentation, and creative assets.
 
 ## Example Use Case:
 
-Suppose you use the ToolSculpt DataManipulator tool in your project to clean and preprocess datasets. You would need to provide proper attribution in your project documentation or interface, giving credit to ToolSculpt as per the license requirements.
+Suppose you utilize the ToolSculpt DataManipulator in your project for cleaning and preprocessing datasets. Ensure proper attribution in your project documentation or interface, giving credit to ToolSculpt as per the license requirements.
 
 Read the full text of the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 For more information about CodeBruds, ToolSculpt, and its projects, visit [https://www.codebruds.com](https://www.codebruds.com).
+
 
 
