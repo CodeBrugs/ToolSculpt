@@ -1,6 +1,6 @@
 **Release Notes - ToolSculpt**
 
-# Versión 1.0.0 (Fecha de Lanzamiento: [Fecha])
+# Versión 1.0.0 (Fecha de Lanzamiento: [4/1/2024])
 
 ## Novedades Destacadas
 
