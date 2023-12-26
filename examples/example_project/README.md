@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo básico para el archivo `README.md` según el proyecto ToolSculpt. El README es una buena manera de proporcionar información sobre tu proyecto y cómo los usuarios pueden utilizarlo. Puedes personalizar este README según las necesidades específicas de tu proyecto:
-
-```markdown
 # ToolSculpt
 
 ToolSculpt es un proyecto que proporciona una colección de herramientas para tareas específicas. Cada herramienta se encuentra en su propio directorio y está diseñada para realizar una función particular.
