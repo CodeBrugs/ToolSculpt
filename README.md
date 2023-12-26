@@ -2,7 +2,7 @@
 
 Bienvenido a ToolSculpt, un proyecto que proporciona una colección de herramientas para tareas específicas. Cada herramienta se encuentra en su propio directorio y está diseñada para realizar una función particular.
 
-## ![Logo de ToolSculpt](logo.png) Herramienta 3
+## ![Logo de ToolSculpt](logo.png) 
 
 ### Descripción
 
