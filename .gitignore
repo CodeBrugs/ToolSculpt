@@ -1,22 +1,32 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
+# Ignore Visual Studio Code settings
 .vscode/
-#Cache folder
+
+# Ignore AL Language extension cache
 .alcache/
-#Symbols folder
+
+# Ignore AL Language extension packages
 .alpackages/
-#Snapshots folder
+
+# Ignore Snapshots created during development
 .snapshots/
-#Testing Output folder
+
+# Ignore output folder generated during testing
 .output/
-#Extension App-file
+
+# Ignore compiled AL extension files
 *.app
-#Rapid Application Development File
+
+# Ignore Rapid Application Development configuration file
 rad.json
-#Translation Base-file
+
+# Ignore Translation Base file
 *.g.xlf
-#License-file
+
+# Ignore License files
 *.flf
-#Test results file
+
+# Ignore Test results file
 TestResults.xml
+
+# Ignore Python virtual environment
+venv/
