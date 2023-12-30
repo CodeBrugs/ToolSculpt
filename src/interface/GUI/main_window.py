@@ -1,5 +1,8 @@
+from curses import def_shell_mode
 import tkinter as tk
 from tkinter import ttk
+import tkinter as tk
+import tkinter as tk
 from src.interface.GUI.widgets.tool_preview import ToolPreviewWidget  # Ajusta la ruta según la estructura de tus archivos
 
 class MainWindow(tk.Tk):
@@ -55,6 +58,19 @@ def main():
     app = MainWindow()
     app.mainloop()
 
+root = tk.Tk()  # Definir la variable root
+
 if __name__ == "__main__":
     main()
 
+entry_widget = tk.Entry(root)
+entry_value = entry_widget.get()
+check_var = tk.IntVar()
+checkbutton_widget = tk.Checkbutton(root, variable=check_var)
+# ...
+check_state = check_var.get()  # Devuelve 1 si la casilla está marcada, 0 si no lo está
+radio_var = tk.StringVar()
+selected_option = radio_var.get()  # Devuelve el valor radio_var = tk.StringVar()
+radiobutton_widget1 = tk.Radiobutton(root, text="Opción 1", variable=radio_var, value="opcion1")
+radiobutton_widget2 = tk.Radiobutton(root, text="Opción 2", variable=radio_var, value="opcion2")
+print("¡Has hecho clic en el botón!")
