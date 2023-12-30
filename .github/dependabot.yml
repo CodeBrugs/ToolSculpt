@@ -5,9 +5,14 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: "pip" # Para proyectos Python
+    directory: "/" # El directorio donde se encuentra tu archivo de dependencias (requirements.txt o pipfile)
     schedule:
-      interval: "daily"
-
-      
+      interval: "daily" # Dependabot comprobará las actualizaciones diariamente
+    open-pull-requests-limit: 10 # El número máximo de pull requests abiertas de Dependabot
+    reviewers: # Dependabot asignará a estos revisores a las pull requests
+      - "username1"
+      - "username2"
+    assignees: # Dependabot asignará a estos usuarios a las pull requests
+      - "username1"
+      - "username2"
