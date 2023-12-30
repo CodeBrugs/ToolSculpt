@@ -68,3 +68,12 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+if [ -f requirements.txt ]; then pip install -r requirements.txt; fion:
+  push:
+    branches: [ "dev" ]
+  pull_request:
+    branches: [ "dev" ]on:
+  push:
+    branches: [ "dev", "feature1", "feature2" ]
+  pull_request:
+    branches: [ "dev", "feature1", "feature2" ]
